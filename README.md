@@ -1,7 +1,7 @@
 # 03-SmartHome-damd
-# SmartHome Unity Project
+## SmartHome Unity Project
 
-## Overview
+### Overview
 A Unity project simulating a smart home environment with doors, lights and shades.
 - Unity Version 6000.0.57f1
 - Skizze:
